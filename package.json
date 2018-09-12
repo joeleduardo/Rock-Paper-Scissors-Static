@@ -1,0 +1,10 @@
+{
+  "name": "rock-paper-scissors-static",
+  "version": "1.0.0",
+  "description": "Rock-Paper-Scissors-Static",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "author": "Joel Ortiz",
+  "license": "ISC"
+}
