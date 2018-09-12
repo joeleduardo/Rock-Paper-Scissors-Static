@@ -1,1 +1,6 @@
+# Files
+.DS_store
+/node_modules
+/dist
+*.log
 .idea
